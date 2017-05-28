@@ -1,0 +1,6 @@
+mpirun -np 8 Queens 14
+mpirun -np 16 Queens 14
+mpirun -np 32 Queens 14
+mpirun -np 64 Queens 14
+mpirun -np 128 Queens 14
+mpirun -np 220 Queens 14
