@@ -5,5 +5,5 @@
 ```
 chmod +x run
 
- ./run
+./run
 ```
