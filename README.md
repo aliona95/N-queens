@@ -1,6 +1,6 @@
 # N-queens
 
-## How to run
+## How to run:
 
 ```
 chmod +x run
